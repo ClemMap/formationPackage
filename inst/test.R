@@ -13,3 +13,6 @@ impute_na(c(2,1,1,2,NA), "moyenne")
 library(covr)
 package_coverage()
 report()
+
+
+# "happy git with R"
