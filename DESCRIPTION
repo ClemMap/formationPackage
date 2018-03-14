@@ -1,0 +1,16 @@
+Package: formationPackage
+Type: Package
+Title: Style Cnam
+Version: 0.1.0
+Authors@R: person("Clément", "Mapella", , "c.mapella@gmail.com", c("aut", "cre"))
+Description: Création de style Cnam.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: 
+    crul,
+    jsonlite,
+    stats
+Suggests: 
+    testthat
