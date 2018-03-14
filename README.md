@@ -1,8 +1,8 @@
-# read me Package Clement Mapella
+# read me Package clem
 
 > Formation R
 
-Pour installer le Package 'formationPackage' de Clement :
+Pour installer le Package 'formationPackage' de Clem :
 
 
 ```r
